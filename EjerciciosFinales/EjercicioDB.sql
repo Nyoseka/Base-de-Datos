@@ -1,0 +1,1 @@
+detallefacturasSELECT * FROM facturas.facturas;
